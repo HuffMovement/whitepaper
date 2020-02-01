@@ -1,4 +1,4 @@
-2. MINIMISE YOUR EXPENDITURE TO MAXIMISE YOUR SAVINGS
+###2. MINIMISE YOUR EXPENDITURE TO MAXIMISE YOUR SAVINGS
 
 Now that you know your expenditure habits, it's time to act on them. Realise how much money you spend on things you don't need, and things that you eat or drink that are bad for your health. Cut toxic habits out. Restrict expensive habits. Try to be more smart about making the most out of your resources, try to get deals in the supermarket that you can easily stock. We are looking for all those pennies that we can spare – and we didn't even know we could! This will be the beginning of our savings, and where we will start building up our wealth.
 

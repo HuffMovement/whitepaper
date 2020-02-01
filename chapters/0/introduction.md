@@ -1,4 +1,4 @@
-HOW TO START SAVING
+####HOW TO START SAVING
 
 Nowadays everyone tries to sell you their unique proven get-rich-quick schema. If you are a normal person, from an average family and with an average job, getting rich is not something you can do quickly. But it's definitely possible! It will require some discipline, but you will enjoy experiences that would otherwise be vetoed for you.
 
@@ -14,13 +14,13 @@ We will reach our goal through several steps:
 - Continuous improvement and learning about investment products
 - Continuous creation of further alternative streams of money
 
-WHERE DO I START?
+#####WHERE DO I START?
 
 This guide assumes you have a job and a salary. At this stage it's not important how much you get paid, what's important is that you have a reliable periodic income of money. At the same time you also have liabilities, or expenses: your rent or mortgage, bills, groceries expenses, children's education, your ex's monthly payment... Most people are careless with money and don't prepare for eventualities, spending the whole or most of their salary every month. Besides, they usually spend the most on the first days after getting it, which means the rest of the month they will be in a worse scarcity situation, not realising how much wealth they are letting slip through their fingers.
 
 I will also imagine you have little to no savings. This guide helps you on how to get started from zero savings. You may or may not have a mortgage. This is always a right financial decision, but we need to choose the right moment to do so, both in our lives and the real state market.
 
-A NOTE ABOUT TAXES
+#####A NOTE ABOUT TAXES
 
 Before we start, it's worth making some mentions about taxes.
 
@@ -28,7 +28,7 @@ Most people have an allowance of £1000 earned in interest every year. That mean
 
 ISAs are a very powerful instrument for increasing your wealth. They allow you to put money away while getting your interest tax-free. You can find more information on https://www.gov.uk/individual-savings-accounts
 
-A NOTE ABOUT CREDIT SCORE
+#####A NOTE ABOUT CREDIT SCORE
 
 Your credit score measures how attractive you are for banks to lend you money. It represents how reliable you are to return that money in time. In this guide we will need to create some current/savings/ISA accounts, so we will need to keep an eye on the credit score to do this successfully. This is because most current accounts have some overdraft associated, which counts as credit, so you won't be granted one unless you have a worthy score.
 
