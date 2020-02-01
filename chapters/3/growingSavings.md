@@ -6,11 +6,11 @@ It's usually a good idea to have a month worth of expenses. Other authors say th
 
 And here is when it becomes interesting. While you get there, you may as well get some interest on your savings. There are several ways to do this but under no circumstance have your savings at 0%. Why would you? Nowadays there are current bank accounts that pay you interest on your balance.
 
-[Illustration 2: Current bank accounts with interest. Source: moneysavingexpert.com]
+![Current bank accounts with interest. Source: moneysavingexpert.com](./current.jpg)
 
 Alternatively, you could choose a savings account or even a cash ISA.
 
-[Illustration 3: Regular savings accounts. Source: moneysavingexpert.com]
+![Regular savings accounts. Source: moneysavingexpert.com](./savings.jpg)
 
 The important thing about your rainy day fund is that it is liquid, or immediately available to spend. If you have your rainy day fund invested in something less liquid such as gold, you will need to sell that gold first in case of financial adversities, and a buyer may not be readily available.
 
