@@ -1,4 +1,4 @@
-###4. LEARN ABOUT INVESTING
+### 4. LEARN ABOUT INVESTING
 
 When you invest you money is at risk. This means you could potentially get better results than with your savings, but you could also end up with less money that you started, so do it at your own risk, and invest only what you can afford to lose. If you are prepared, there are lots of ways to do so nowadays, especially online.
 

@@ -1,4 +1,4 @@
-###3. WHERE TO PUT YOUR SAVINGS
+### 3. WHERE TO PUT YOUR SAVINGS
 
 We now have a stream of money that we don't spend every month. Great! The first part of our plan is now complete. Now we want this stream of money to generate more money, so we can increase the stream month after month.
 
