@@ -71,3 +71,8 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Own files/folders
+dist/
+build/
+package-lock.json

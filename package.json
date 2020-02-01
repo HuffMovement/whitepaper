@@ -1,0 +1,23 @@
+{
+  "name": "whitepaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark-Kid/whitepaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dark-Kid/whitepaper/issues"
+  },
+  "homepage": "https://github.com/Dark-Kid/whitepaper#readme",
+  "devDependencies": {
+    "markdown-styles": "^3.1.10",
+    "phantom": "^4.0.12"
+  }
+}
