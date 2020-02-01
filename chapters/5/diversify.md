@@ -1,4 +1,4 @@
-5. OTHER IDEAS TO DIVERSIFY YOUR INCOME STREAMS
+###5. OTHER IDEAS TO DIVERSIFY YOUR INCOME STREAMS
 
 You are encouraged to research and experiment with the following:
 

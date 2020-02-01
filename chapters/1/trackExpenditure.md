@@ -1,4 +1,4 @@
-1. TRACK YOUR EXPENDITURE
+###1. TRACK YOUR EXPENDITURE
 
 It all boils down to how much goes in, and how much goes out. If you are a regular employer you would know exactly how much comes in every month, but if you work on commission or similar your wages may vary month by month. In this case, you probably want to be more conservative with your savings, allowing you to have some money for a rainy day, or month.
 
