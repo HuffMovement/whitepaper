@@ -35,9 +35,10 @@ Your credit score measures how attractive you are for banks to lend you money. I
 There are three Credit Score Agencies in the UK: Equifax, Experian and TransUnion. All three of them offer services for you to track and improve your score, but those are paid services. However, for each provider there is a free alternative provider you can use, so you can stay on top of our credit score.
 
 
-PROVIDER                            | FREE ALTERNATIVE
-Equifax                             | ClearScore https://app.clearscore.com/login
-Experian                            | MSE's Credit Club https://clubs.moneysavingexpert.com/creditclub/register
-TransUnion (formerly CallCredit)    | Credit Karma (formerly Noddle) https://www.creditkarma.co.uk/account/sign-in
+ PROVIDER | FREE ALTERNATIVE | LINK 
+ :---: | :---: | :---:
+ Equifax | ClearScore | https://app.clearscore.com/login
+ Experian | MSE's Credit Club | https://clubs.moneysavingexpert.com/creditclub/register
+ TransUnion (formerly CallCredit)    | Credit Karma (formerly Noddle) | https://www.creditkarma.co.uk/account/sign-in
 
 If you need to apply for a new current account, credit card or loan, you should check your credit score to know whether you are likely to be approved, before applying. In case your score is not high enough, you can build it with Credit Score Building Credit Cards. The aforementioned tools can also suggest you credit card offers tailored for you, in some cases pre-approved.
