@@ -40,6 +40,4 @@ Equifax                             | ClearScore https://app.clearscore.com/logi
 Experian                            | MSE's Credit Club https://clubs.moneysavingexpert.com/creditclub/register
 TransUnion (formerly CallCredit)    | Credit Karma (formerly Noddle) https://www.creditkarma.co.uk/account/sign-in
 
-If you need to apply for a new current account, credit card or loan, you should check your credit score to know whether you are likely to be approved, before applying. In case your score is not high enough, you can build it with Credit Score Building Credit Cards. Here are some recommended ones:
-
-- Vanquis Card – High chances of being approved. The available amount and the rate will depend on your personal circumstances. Referral: you can get £25 after your first transaction using the link https://www.vanquis.co.uk/raf-app?code=D790CE2ACDF42A38C273
+If you need to apply for a new current account, credit card or loan, you should check your credit score to know whether you are likely to be approved, before applying. In case your score is not high enough, you can build it with Credit Score Building Credit Cards. The aforementioned tools can also suggest you credit card offers tailored for you, in some cases pre-approved.
