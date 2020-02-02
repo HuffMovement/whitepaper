@@ -15,8 +15,12 @@ const chapters = files
     .filter(([f]) => f.match(/.md$/))
     .reduce((acc, [f]) => `${acc}${fs.readFileSync(f, 'UTF-8')}\n`, '');
 
-fs.rmdirSync(inputdir, { recursive: true });
-fs.rmdirSync(outputdir, { recursive: true });
+if (fs.existsSync(inputdir)) {
+    fs.rmdirSync(inputdir, { recursive: true });
+}
+if (fs.existsSync(outputdir)) {
+    fs.rmdirSync(outputdir, { recursive: true });
+}
 fs.mkdirSync(inputdir);
 fs.mkdirSync(outputdir);
 fs.writeFileSync(`${inputdir}/index.md`, chapters, 'UTF-8');
