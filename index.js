@@ -36,14 +36,14 @@ function createpdf(htmlFile, pdfFile) {
     phantom.create().then(function (ph) {
         ph.createPage().then(function (page) {
             page.property('paperSize', { format: 'A4', orientation: 'portrait', border: '1cm' }).then(function () {
-                page.property('zoomFactor', 300.0 / 72.0).then(function () {
+                // page.property('zoomFactor', 300.0 / 72.0).then(function () {
                     page.open(htmlFile).then(function (status) {
                         page.render(pdfFile).then(function () {
                             console.log('Page Rendered %s', pdfFile);
                             ph.exit();
                         });
                     });
-                });
+                // });
             });
         });
     });
@@ -80,6 +80,6 @@ mds.render(mds.resolveArgs({
     </body>
         `), 'UTF-8');
     }
-    var pdfFile = outputdir + '/' + mdfile.replace(markdownextension, pdfextension);
+    var pdfFile = `${outputdir}/saving_manifest.pdf`;
     createpdf(htmlFile, pdfFile);
 });
