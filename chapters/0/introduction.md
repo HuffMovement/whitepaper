@@ -21,7 +21,7 @@ We will reach our goal through several steps:
 
 This guide assumes you have a job and a salary. At this stage it's not important how much you get paid, what's important is that you have a reliable periodic income of money. At the same time you also have liabilities, or expenses: your rent or mortgage, bills, groceries expenses, children's education, your ex's monthly payment... Most people are careless with money and don't prepare for eventualities, spending the whole or most of their salary every month. Besides, they usually spend the most on the first days after getting it, which means the rest of the month they will be in a worse scarcity situation, not realising how much wealth they are letting slip through their fingers.
 
-I will also imagine you have little to no savings. This guide helps you on how to get started from zero savings. You may or may not have a mortgage. This is always a right financial decision, but we need to choose the right moment to do so, both in our lives and the real state market.
+It will also imagine you have little to no savings. This guide helps you on how to get started from zero savings. You may or may not have a mortgage. This is always a right financial decision, but we need to choose the right moment to do so, both in our lives and the real state market.
 
 ##### A NOTE ABOUT TAXES
 
