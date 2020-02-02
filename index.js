@@ -5,23 +5,25 @@ var phantom = require('phantom');
 var inputdir = './build';
 var outputdir = './dist';
 
-const chapters = fs.readdirSync('./chapters')
-    .flatMap((c) => fs.readdirSync(`./chapters/${c}`)
-        .filter(f => f.match(/.md$/))
-        .map(f => `./chapters/${c}/${f}`))
-    .reduce((acc,f) => `${acc}${fs.readFileSync(f, 'UTF-8')}\n`, '');
-
-const pictures = fs.readdirSync('./chapters')
-    .flatMap((c) => fs.readdirSync(`./chapters/${c}`)
-        .filter(f => f.match(/.jpg$/))
-        .map(f => [`./chapters/${c}/${f}`, `./dist/${f}`]))
+const files = fs.readdirSync('./chapters')
+    .reduce((acc, c) => [
+        ...acc,
+        ...(fs.readdirSync(`./chapters/${c}`) || [])
+            .map(f => [`./chapters/${c}/${f}`, f])
+    ], []);
+const chapters = files
+    .filter(([f]) => f.match(/.md$/))
+    .reduce((acc, [f]) => `${acc}${fs.readFileSync(f, 'UTF-8')}\n`, '');
 
 fs.rmdirSync(inputdir, { recursive: true });
 fs.rmdirSync(outputdir, { recursive: true });
 fs.mkdirSync(inputdir);
 fs.mkdirSync(outputdir);
 fs.writeFileSync(`${inputdir}/index.md`, chapters, 'UTF-8');
-pictures.map(([a,b]) => fs.copyFileSync(a,b));
+
+files.filter(([f]) => f.match(/.jpg$/))
+    .forEach(([p,f]) =>
+        fs.copyFileSync(p, `./dist/${f}`));
 
 function createpdf(htmlFile, pdfFile) {
     console.log("Html file %s", htmlFile);
@@ -55,6 +57,23 @@ mds.render(mds.resolveArgs({
     layout: 'github',
 }), function () {
     var htmlFile = outputdir + '/' + mdfile.replace(markdownextension, htmlextension);
+    const html = fs.readFileSync(htmlFile, 'UTF-8');
+    fs.writeFileSync(htmlFile, html.replace('</body>', `
+<style>
+body {
+    max-width: 1400px;
+}
+.markdown-body {
+    font-size: 31px;
+}
+.markdown-body img {
+    max-width: 1000px;
+    margin: 5px auto;
+    display: block;
+}
+</style>
+</body>
+    `), 'UTF-8');
     var pdfFile = outputdir + '/' + mdfile.replace(markdownextension, pdfextension);
     createpdf(htmlFile, pdfFile);
 });

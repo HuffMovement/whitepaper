@@ -9,6 +9,7 @@ Here are some quick and easy tips on how to start saving and investing. It shows
 The contents of this guide are meant as a compilation of good practices, just to get you started on saving and investing, and under no circumstance represent financial advise.
 
 We will reach our goal through several steps:
+
 - Track your earnings and expenditures
 - Minimize expenditure to maximise savings
 - Continuous improvement and learning about savings products
@@ -26,9 +27,9 @@ I will also imagine you have little to no savings. This guide helps you on how t
 
 Before we start, it's worth making some mentions about taxes.
 
-Most people have an allowance of £1000 earned in interest every year. That means the first £1000 you make every tax year are tax-free. Read more here https://www.gov.uk/apply-tax-free-interest-on-savings. The rest of the money will be taxed according to your tax band. Learn more about tax bands here https://www.gov.uk/income-tax-rates
+Most people have an allowance of £1000 earned in interest every year. That means the first £1000 you make every tax year are tax-free. Read more here [https://www.gov.uk/apply-tax-free-interest-on-savings](https://www.gov.uk/apply-tax-free-interest-on-savings). The rest of the money will be taxed according to your tax band. Learn more about tax bands here [https://www.gov.uk/income-tax-rates](https://www.gov.uk/income-tax-rates)
 
-ISAs are a very powerful instrument for increasing your wealth. They allow you to put money away while getting your interest tax-free. You can find more information on https://www.gov.uk/individual-savings-accounts
+ISAs are a very powerful instrument for increasing your wealth. They allow you to put money away while getting your interest tax-free. You can find more information on [https://www.gov.uk/individual-savings-accounts](https://www.gov.uk/individual-savings-accounts)
 
 ##### A NOTE ABOUT CREDIT SCORE
 
@@ -36,11 +37,10 @@ Your credit score measures how attractive you are for banks to lend you money. I
 
 There are three Credit Score Agencies in the UK: Equifax, Experian and TransUnion. All three of them offer services for you to track and improve your score, but those are paid services. However, for each provider there is a free alternative provider you can use, so you can stay on top of our credit score.
 
-
- PROVIDER | FREE ALTERNATIVE | LINK 
- :---: | :---: | :---:
- Equifax | ClearScore | https://app.clearscore.com/login
- Experian | MSE's Credit Club | https://clubs.moneysavingexpert.com/creditclub/register
- TransUnion (formerly CallCredit)    | Credit Karma (formerly Noddle) | https://www.creditkarma.co.uk/account/sign-in
+| PROVIDER | FREE ALTERNATIVE | LINK |
+| :---: | :---: | :---: |
+| Equifax | ClearScore | [https://app.clearscore.com/login](https://app.clearscore.com/login)
+| Experian | MSE's Credit Club | [https://clubs.moneysavingexpert.com/creditclub/register](https://clubs.moneysavingexpert.com/creditclub/register) |
+| TransUnion (formerly CallCredit)    | Credit Karma (formerly Noddle) | [https://www.creditkarma.co.uk/account/sign-in](https://www.creditkarma.co.uk/account/sign-in) |
 
 If you need to apply for a new current account, credit card or loan, you should check your credit score to know whether you are likely to be approved, before applying. In case your score is not high enough, you can build it with Credit Score Building Credit Cards. The aforementioned tools can also suggest you credit card offers tailored for you, in some cases pre-approved.

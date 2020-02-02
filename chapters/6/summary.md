@@ -1,24 +1,20 @@
 ### 6. IN FUTURE CHAPTERS...
+
 - Debt
 - How to use credit to your benefit
 - Mortgages
 
 ##### MAIN MANTRAS
 
-> Always pay yourself first
+- Always pay yourself first
+- Saving is the cheapest money
+- Invest only what you can afford to lose
+- Once a penny enters the savings, it doesn't leave them
+- Compounding multiplies our investment
 
-> Saving is the cheapest money
+##### RECOMMENDED RESOURCES
 
-> Invest only what you can afford to lose
-
-> Once a penny enters the savings, it doesn't leave them
-
-> Compounding multiplies our investment
-
-
-##### RECOMMENDED RESOURCES:
-
-Books
+###### Books
 
 - Rich Dad, Poor Dad – Robert Kiyosaki
 - The Intelligent Investor – Benjamin Graham
@@ -27,12 +23,9 @@ Books
 - The Art Of War – Sun Tzu
 - The Bitcoin Standard - Saifedean Ammous
 
-Links
+###### Links
 
-www.gov.uk
-
-https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/
-
-https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/
-
-https://www.investopedia.com/
+- www.gov.uk
+- https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/
+- https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/
+- https://www.investopedia.com/

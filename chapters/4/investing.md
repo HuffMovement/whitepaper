@@ -6,7 +6,7 @@ The first and easiest way to get acquainted with investment would be through onl
 
 Many of these products thrived during the economical bonanza, and lots went bankrupt when the market became more uncertain. Some people lost all their savings. The strongest players survived and are still among us, but the markets are likely to get worse, so more may fall.
 
-Diversifying is an important tool as well. Instead of putting all your money in a single product, try different ones and spread the risk. Losing money along the way is not a tragedy, but actually inevitable. You will learn from walking the path, and making mistakes is part of it. The trick is to recover yourself with other investments, if one goes south. 
+Diversifying is an important tool as well. Instead of putting all your money in a single product, try different ones and spread the risk. Losing money along the way is not a tragedy, but actually inevitable. You will learn from walking the path, and making mistakes is part of it. The trick is to recover yourself with other investments, if one goes south.
 
 Some of these online investing products come in an ISA wrapper, allowing you to earn your interest tax-free. Lots of them have promotions when signing up, such as cashback or free services for a period of time. By diversifying you can also can take advantage of several of these promotions, compounding your investment.
 

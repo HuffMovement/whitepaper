@@ -7,5 +7,3 @@ But it's in what comes out where we have the biggest power, at least at this sta
 Then you only need to update your table with your actual expenditure. Whenever you spend money, the table needs to be updated in order to do the tracking. Once you notice one of the concepts is getting closer to the limit, you could try to be more conscious about spending more on it. This is actually something very easy to do, but where the most people struggle because they can't see the huge benefit. If you manage to track your expenditure, to the penny, you will get to know your spending habits well, and now you can start acting on them. They will impose some discipline on spending and tracking habits that will be paramount in future steps of this plan. A good frequency to update your sheet is once or twice per week, but it really varies by the person and spending habits.
 
 If you don't need to start saving immediately, you can trial the first month by trying to guess how much you will spend on each category, then spending normally and comparing the results against your predictions.
-
-
