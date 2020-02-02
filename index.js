@@ -36,14 +36,12 @@ function createpdf(htmlFile, pdfFile) {
     phantom.create().then(function (ph) {
         ph.createPage().then(function (page) {
             page.property('paperSize', { format: 'A4', orientation: 'portrait', border: '1cm' }).then(function () {
-                // page.property('zoomFactor', 300.0 / 72.0).then(function () {
-                    page.open(htmlFile).then(function (status) {
-                        page.render(pdfFile).then(function () {
-                            console.log('Page Rendered %s', pdfFile);
-                            ph.exit();
-                        });
+                page.open(htmlFile).then(function (status) {
+                    page.render(pdfFile).then(function () {
+                        console.log('Page Rendered %s', pdfFile);
+                        ph.exit();
                     });
-                // });
+                });
             });
         });
     });
@@ -52,7 +50,6 @@ function createpdf(htmlFile, pdfFile) {
 const mdfile = 'index.md'
 var markdownextension = '.md';
 var htmlextension = ".html";
-var pdfextension = ".pdf";
 var mdfilePath = inputdir + '/' + mdfile;
 console.log ("Markdown file path %s", mdfilePath);
 mds.render(mds.resolveArgs({
@@ -64,19 +61,36 @@ mds.render(mds.resolveArgs({
     const html = fs.readFileSync(htmlFile, 'UTF-8');
     if (process.env.DEV) {
         fs.writeFileSync(htmlFile, html.replace('</body>', `
-    <style>
-    body {
-        max-width: 1400px;
-    }
-    .markdown-body {
-        font-size: 31px;
-    }
-    .markdown-body img {
-        max-width: 1000px;
-        margin: 5px auto;
-        display: block;
-    }
-    </style>
+        <style>
+            body {
+                max-width: 1400px;
+            }
+            .markdown-body {
+                font-size: 31px;
+            }
+            .markdown-body img {
+                max-width: 1000px;
+                margin: 5px auto;
+                display: block;
+            }
+        </style>
+    </body>
+        `), 'UTF-8');
+    } else {
+        fs.writeFileSync(htmlFile, html.replace('</body>', `
+        <style>
+            body {
+                max-width: 800px;
+            }
+            .markdown-body {
+                font-size: 12px;
+            }
+            .markdown-body img {
+                max-width: 600px;
+                margin: 5px auto;
+                display: block;
+            }
+        </style>
     </body>
         `), 'UTF-8');
     }
