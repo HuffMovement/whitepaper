@@ -1,6 +1,6 @@
 # The Saving Manifest
 
-### PREFACE
+### 0. PREFACE
 
 Nowadays everyone tries to sell you their unique proven get-rich-quick schema. If you are a normal person, from an average family and with an average job, getting rich is not something you can do quickly. But it's definitely possible! It will require some discipline, but you will enjoy experiences that would otherwise be vetoed for you.
 
