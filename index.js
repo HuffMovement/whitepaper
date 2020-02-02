@@ -80,13 +80,13 @@ mds.render(mds.resolveArgs({
         fs.writeFileSync(htmlFile, html.replace('</body>', `
         <style>
             body {
-                max-width: 800px;
+                max-width: 700px;
             }
             .markdown-body {
-                font-size: 12px;
+                font-size: 10px;
             }
             .markdown-body img {
-                max-width: 600px;
+                max-width: 400px;
                 margin: 5px auto;
                 display: block;
             }
