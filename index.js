@@ -95,6 +95,11 @@ mds.render(mds.resolveArgs({
                 margin: 5px auto;
                 display: block;
             }
+            .markdown-body .img-container ~ blockquote {
+                padding: 0;
+                border: 0;
+                text-align: center;
+            }
         </style>
     </body>
         `), 'UTF-8');
