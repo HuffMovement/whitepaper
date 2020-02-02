@@ -62,22 +62,24 @@ mds.render(mds.resolveArgs({
 }), function () {
     var htmlFile = outputdir + '/' + mdfile.replace(markdownextension, htmlextension);
     const html = fs.readFileSync(htmlFile, 'UTF-8');
-    fs.writeFileSync(htmlFile, html.replace('</body>', `
-<style>
-body {
-    max-width: 1400px;
-}
-.markdown-body {
-    font-size: 31px;
-}
-.markdown-body img {
-    max-width: 1000px;
-    margin: 5px auto;
-    display: block;
-}
-</style>
-</body>
-    `), 'UTF-8');
+    if (process.env.DEV) {
+        fs.writeFileSync(htmlFile, html.replace('</body>', `
+    <style>
+    body {
+        max-width: 1400px;
+    }
+    .markdown-body {
+        font-size: 31px;
+    }
+    .markdown-body img {
+        max-width: 1000px;
+        margin: 5px auto;
+        display: block;
+    }
+    </style>
+    </body>
+        `), 'UTF-8');
+    }
     var pdfFile = outputdir + '/' + mdfile.replace(markdownextension, pdfextension);
     createpdf(htmlFile, pdfFile);
 });
