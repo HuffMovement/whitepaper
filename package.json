@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node ./index.js",
-    "dev": "DEV=1 node ./index.js"
+    "dev": "set DEV=1&& node ./index.js"
   },
   "repository": {
     "type": "git",

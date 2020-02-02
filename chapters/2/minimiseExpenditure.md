@@ -9,3 +9,4 @@ Remember saving is always the cheapest money! You will see further down the line
 Adjust your original budget, and try to stick to it. Don't spend on concepts that you planned to not spend, and don't go beyond the threshold on the rest. Now you have actual power over how much money you can save (generate) per month. You should keep reviewing your budget in the long term, as your needs will change with time.
 
 ![Example of expenditure table](./expenditure.jpg)
+> Example of expenditure table
