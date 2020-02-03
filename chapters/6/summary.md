@@ -16,11 +16,11 @@
 
 ###### Books
 
-- Rich Dad, Poor Dad – Robert Kiyosaki
 - The Intelligent Investor – Benjamin Graham
 - The Naked Trader – Robbie Burns
 - The Warren Buffet Way - Robert G. Hagstrom
 - The Art Of War – Sun Tzu
+- Rich Dad, Poor Dad – Robert Kiyosaki
 - The Bitcoin Standard - Saifedean Ammous
 
 ###### Links
