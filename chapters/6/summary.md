@@ -29,3 +29,7 @@
 - https://www.moneysavingexpert.com/banking/compare-best-bank-accounts/
 - https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/
 - https://www.investopedia.com/
+
+###### Participate
+
+If you like our initiative and would like to get involved there are many ways you can do it. Find out more ways to get involved on huff.netlify.com/participate/

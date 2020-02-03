@@ -6,6 +6,8 @@ Nowadays everyone tries to sell you their unique proven get-rich-quick schema. I
 
 Here are some quick and easy tips on how to start saving and investing. It shows good practices and habits to keep a healthy financial lifestyle, as well as sustainable and prepared for mishaps. It will show you how to use your available time and money while having a normal job, potentially being able to quit it one day to live from what you generate. It will help you grow diversified sources of income aside from your job, and will help you achieve financial freedom in the long term.
 
+The latest version of this Saving Manifest, along with other information about the Huff Movement, can be downloaded from huff.netlyfy.com
+
 The contents of this guide are meant as a compilation of good practices, just to get you started on saving and investing, and under no circumstance represent financial advise.
 
 We will reach our goal through several steps:
