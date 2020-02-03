@@ -12,12 +12,11 @@ The contents of this guide are meant as a compilation of good practices, just to
 
 We will reach our goal through several steps:
 
-- Track your earnings and expenditures
-- Minimize expenditure to maximise savings
-- Continuous improvement and learning about savings products
-- First alternative stream of wealth from not spent money
-- Continuous improvement and learning about investment products
-- Continuous creation of further alternative streams of money
+- 1: Track your expenditure: know your earnings and expenses.
+- 2: Maximise savings: by minimizing expenditure.
+- 3: Grow your savings: Continuous improvement and learning about savings products.
+- 4: Investing: Continuous improvement and learning about investment products and financial markets.
+- 5: Diversification: continuous creation of alternative streams of money.
 
 ##### WHERE DO I START?
 
