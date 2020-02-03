@@ -4,7 +4,7 @@ When you invest you money is at risk. This means you could potentially get bette
 
 The first and easiest way to get acquainted with investment would be through online financial products that allow you to track the progress of your portfolio. There are bigger and smaller players and you should carefully study the market before making a choice. In most cases you will want an FCA compliant provider.
 
-Many of these products thrived during the economical bonanza, and lots went bankrupt when the market became more uncertain. Some people lost all their savings. The strongest players survived and are still among us, but the markets are likely to get worse, so more may fall.
+Many of these products thrived during the economical bonanza, and some went bankrupt when the market became more uncertain. The strongest players survived, but the markets are likely to get worse, so more may fall.
 
 Some of these online investing products come in an ISA wrapper, allowing you to earn your interest tax-free. Lots of them have promotions when signing up, such as cashback or free services for a period of time. By diversifying you can also can take advantage of several of these promotions, compounding your investment.
 
