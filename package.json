@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dark-Kid/whitepaper.git"
+    "url": "git+https://github.com/HuffMovement/whitepaper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dark-Kid/whitepaper/issues"
+    "url": "https://github.com/HuffMovement/whitepaper/issues"
   },
-  "homepage": "https://github.com/Dark-Kid/whitepaper#readme",
+  "homepage": "https://github.com/HuffMovement/whitepaper#readme",
   "devDependencies": {
     "markdown-styles": "^3.1.10",
     "phantom": "^4.0.12"
