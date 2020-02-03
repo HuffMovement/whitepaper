@@ -30,6 +30,6 @@
 - https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/
 - https://www.investopedia.com/
 
-###### Participate
+##### PARTICIPATE
 
-If you like our initiative and would like to get involved there are many ways you can do it. Find out more ways to get involved on huff.netlify.com/participate/
+If you like our initiative and would like to get involved there are many ways you can do it. Find out more ways to get involved on [Huff](huff.netlify.com/participate/).
