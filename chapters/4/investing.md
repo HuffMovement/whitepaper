@@ -10,4 +10,4 @@ Some of these online investing products come in an ISA wrapper, allowing you to 
 
 Investing can be very rewarding if done right. Just remember to invest only what you can afford to lose, your money is at risk.
 
-Diversifying is an important tool as well. Instead of putting all your money in a single product, try different ones and spread the risk. Losing money along the way is not a tragedy, but actually inevitable. You will learn from walking the path, and making mistakes is part of it. The trick is to recover yourself with other investments, if one goes south.
+Diversifying is a powerful tool when it comes to de-risking your investment. Instead of putting all your money in a single product, try different ones and spread the risk. Losing money along the way is not a tragedy, but actually inevitable. You will learn from walking the path, and making mistakes is part of it. If you have loses, just make sure to have earnings somewhere else to cover for them.

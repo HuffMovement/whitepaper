@@ -10,3 +10,4 @@ You are encouraged to research and experiment with the following:
 - Dropshipping: buying products online and selling them for a profit.
 - Peer to peer loans: your money is available for people to borrow, and you keep the interest. The investment is spread across borrowers.
 - Crypto trading: trading cryptocurrencies. Buy low, sell high.
+-Robo-trading: an algorithmic robot allocates your funds in different assets. Like funds, but in a smaller scale, automated and frequently tailored.
