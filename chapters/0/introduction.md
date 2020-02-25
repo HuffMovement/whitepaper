@@ -2,6 +2,10 @@
 
 The latest version of this Saving Manifest, along with other information about the Huff Movement, can be downloaded from [huff.netlyfy.com](huff.netlyfy.com).
 
+### DISCLAIMER
+
+The opinions and contents of this manifest are based on past experience, and do not guarantee any results or returns based on the information provided. This document is for educational use only. There is no expressed or implied guarantee that any actions recommended apply to your specific situation in the present or any later time. It is not the intention of this whitepaper or its authors to recommend any specific financial advisor. You should choose your own competent financial advisor.
+
 ### 0. PREFACE
 
 Nowadays everyone tries to sell you their unique proven get-rich-quick schema. If you are a normal person, from an average family and with an average job, getting rich is not something you can do quickly. But it's definitely possible! It will require some discipline, but you will enjoy experiences that would otherwise be vetoed for you.
